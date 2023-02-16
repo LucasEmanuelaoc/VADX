@@ -1,2 +1,2 @@
 # VADX
-Arcade Horror Game 
+Its Simple Arcade Game 
